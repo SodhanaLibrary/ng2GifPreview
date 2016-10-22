@@ -1,6 +1,6 @@
 {
   "name": "ng2GifPreview",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Facebook like GIF preview with Angular 2",
   "author": "sodhanalibrary <sodhanaware@gmail.com> (http://www.sodhanalibrary.com)",
   "main":"./lib/ng2GifPreview.js",
